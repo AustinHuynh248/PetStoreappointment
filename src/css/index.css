@@ -1,0 +1,26 @@
+/* Basic Pages Css  */
+body {
+  font-weight: 200;
+  background-color: #337ab7;
+}
+
+header a,
+footer a {
+  color: White;
+}
+
+footer {
+  font-size: 0.8rem;
+}
+
+.bg-primary,
+.btn-primary {
+  background-color: #337ab7 !important;
+  border: inherit;
+}
+
+.pet-name {
+  font-size: 1.3rem;
+  color: #337ab7;
+  font-weight: bold;
+}
